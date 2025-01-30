@@ -4,6 +4,5 @@ public class Shape {
     public Integer x;
     public Integer y;
 
-
-    String color = "purple";
+    String color= "Teal";
 }
