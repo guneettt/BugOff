@@ -1,6 +1,9 @@
 package com.example.lab04_bugoff;
 
 public class Shape {
-    private Integer x;
-    private Integer y;
+    public Integer x;
+    public Integer y;
+
+
+    String color = "purple";
 }
